@@ -26,3 +26,5 @@ pnpm-debug.log*
 .vscode/
 .idea/
 *.swp
+
+REACT_APP_FIREBASE_API_KEY="AIzaSyAcbRWkQpEh7218JS0wlbD1stKQrNULq7M"
