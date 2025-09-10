@@ -9,5 +9,6 @@ module.exports = {
     extend: {},
   },
   plugins: [],
+  base: process.env.BASE_ENV_PATH || "/bookingsite" 
 };
 
