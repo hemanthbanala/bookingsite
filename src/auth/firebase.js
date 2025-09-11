@@ -10,7 +10,7 @@ import { getAnalytics } from "firebase/analytics";
 // Your web app's Firebase configuration (from Firebase Console)
 const firebaseConfig = {
   apiKey:  process.env.REACT_APP_FIREBASE_API_KEY,
-  authDomain: "https://bookingsite-9m76i364j-hemanths-projects-536e35f3.vercel.app",
+  authDomain: "moviewebapp-28a1f.firebaseapp.com",
   projectId: "moviewebapp-28a1f",
   storageBucket: "moviewebapp-28a1f.firebasestorage.app",
   messagingSenderId: "984783488427",
